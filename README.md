@@ -36,7 +36,7 @@ I am an experienced **Web Developer** with a strong passion for turning client i
 
 ## 📫 Connect with Me
 
-- 📧 Email: [shoaiibsohail@gmail.com](mailto:shoaiibsohail@gmail.com)
+- 📧 Email: [shoaiibsohail@gmail.com](mailto:shoaibsohail512@gmail.com)
 - 🌍 Website: [shoaibsohail.xyz](https://shoaibsohail.xyz)
 - 💼 LinkedIn: [linkedin.com/in/shoaib-sohail](https://www.linkedin.com/in/shoaib-sohail/)
 
