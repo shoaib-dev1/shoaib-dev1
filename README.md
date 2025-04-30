@@ -8,7 +8,7 @@ I am an experienced **Web Developer** with a strong passion for turning client i
 
 ## 🚀 Tech Stack & Skills
 
-- **Frontend**:  
+- **Frontend**: 
   `HTML`, `CSS (Bootstrap)`, `JavaScript`, `ReactJS`, `jQuery`
 
 - **Design & UI**:  
