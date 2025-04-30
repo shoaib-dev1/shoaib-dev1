@@ -28,21 +28,18 @@ I am an experienced **Web Developer** with a strong passion for turning client i
 
 ---
 
+## 📹 Video Introduction
+
+🎥 [Watch My Intro Video](https://www.youtube.com/watch?v=TI8erHWz9vU)
+
+---
+
 ## 📫 Connect with Me
 
 - 📧 Email: [shoaiibsohail@gmail.com](mailto:shoaiibsohail@gmail.com)
 - 🌍 Website: [shoaibsohail.xyz](https://shoaibsohail.xyz)
-- 💼 LinkedIn: *(Add your LinkedIn link here, if any)*
-
----
-
-### 🧰 GitHub Stats
-
-![Shoaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shoaiibsohail&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoaiibsohail&layout=compact&theme=radical)
+- 💼 LinkedIn: [linkedin.com/in/shoaib-sohail](https://www.linkedin.com/in/shoaib-sohail/)
 
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
